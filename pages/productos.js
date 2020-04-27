@@ -1,12 +1,12 @@
 import Head from 'next/head'
 import Layout from '../components/Layput';
 
-const Index = () => (
+const Productos = () => (
     <div >
       <Layout>
-        <h2>Desde index</h2>
+        <h2>Desde Productos</h2>
       </Layout>
     </div>
-)  
+  )
 
-export default Index;
+export default Productos;
